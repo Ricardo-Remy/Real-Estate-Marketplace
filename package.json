@@ -1,0 +1,26 @@
+{
+  "name": "capstone",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "lite-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Ricardo Remy",
+  "license": "MIT",
+  "devDependencies": {
+    "dotenv": "^16.0.0",
+    "lite-server": "2.4.0",
+    "prettier": "^2.5.1",
+    "prettier-plugin-solidity": "^1.0.0-beta.19"
+  },
+  "dependencies": {
+    "@truffle/hdwallet-provider": "^2.0.3",
+    "openzeppelin-solidity": "^2.2.0",
+    "solc": "^0.5.1",
+    "solc-js": "^0.5.2",
+    "web3": "^1.7.0"
+  }
+}
