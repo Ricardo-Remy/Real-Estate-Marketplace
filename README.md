@@ -105,6 +105,8 @@ The contract ABI can be found under:
 eth-contracts/build/contracts
 ```
 
+You need to have run the compiler in truffle develop console to access the abi.
+
 NB: In order to see how the project interacts with the contract ABI, you can have a look at how the following file scripts are using it:
 
 ```
