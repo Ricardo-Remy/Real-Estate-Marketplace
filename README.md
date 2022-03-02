@@ -105,7 +105,7 @@ The contract ABI can be found under:
 eth-contracts/build/contracts
 ```
 
-NB: In order to see how the project interacts with the contract ABI, you can have a look at how:
+NB: In order to see how the project interacts with the contract ABI, you can have a look at how the following files scripts, and how they use it:
 
 ```
 addSolution.js
