@@ -99,6 +99,24 @@ node mintVerifiedSolution.js 0
 
 Below you will find fulfilled requirements according to the acceptance criterias:
 
+The contract ABI can be found under:
+
+```
+eth-contracts/build/contracts
+```
+
+NB: In order to see how the project interacts with the contract ABI, you can have a look at how:
+
+```
+addSolution.js
+```
+
+and
+
+```
+mintVerifiedSolution.js
+```
+
 The contracts:
 
 ```
